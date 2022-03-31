@@ -1,0 +1,23 @@
+{
+  "name": "linechar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrieliasCB/LineCharCorebooksPlugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/UrieliasCB/LineCharCorebooksPlugin/issues"
+  },
+  "homepage": "https://github.com/UrieliasCB/LineCharCorebooksPlugin#readme",
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
